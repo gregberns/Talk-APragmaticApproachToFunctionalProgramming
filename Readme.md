@@ -1,6 +1,6 @@
 # A Pragmatic Approach to Functional Programming
 
-This repository is a series of talks on: A Pragmatic Approach to Functional Programming in C#
+This repository is a series of talks on a Pragmatic Approach to Functional Programming in C#
 
 It may also be applicable to TypeScript developers, and any other devs that are open to new ideas.
 

@@ -25,7 +25,7 @@ Because programming is full of tradeoffs. With more power comes more responsibil
 
 With more responsibility, comes more potential for abuse.
 
-```
+```csharp
 for (var i = 1; i > 100; i++) {
 	if (i % 15) {
 		console.log(“FizzBuzz”);
@@ -58,7 +58,8 @@ What are the problems with this code:
 - Cant change the output - change from Console to something else, or to send to two places
 - Not modular - cant reuse the embedded logic
 - Cant change the looping mechanism
-- Changes:
+
+Changes:
 - Change the ‘end’ number
 - Make it go forever
 - Translate it to another language
