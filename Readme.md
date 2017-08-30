@@ -32,6 +32,7 @@ Take these talks as a starting point to understand where the flaws in your syste
 
 * [Intro - Why FP is Powerful](WhyFpIsPowerful.md)
 * [Stop Object Reference Errors in their Tracks](StopNullReferencesInTheirTracks.md)
+* [Stop Using For Loops](StopUsingForLoops.md)
 * Programming with Expressions - ToDo
 * Catch Errors Early and Often - ToDo
 * Make Impossible States Impossible - [Talk by Richard Feldman creator of Elm](https://www.youtube.com/watch?v=IcgmSRJHu_8)
