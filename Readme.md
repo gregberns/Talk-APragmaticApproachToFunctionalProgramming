@@ -35,7 +35,7 @@ Take these talks as a starting point to understand where the flaws in your syste
 * [Stop Using For Loops](StopUsingForLoops.md)
 * Programming with Expressions - ToDo
 * Catch Errors Early and Often - ToDo
-* Make Impossible States Impossible - [Talk by Richard Feldman creator of Elm](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+* Make Impossible States Impossible - [Talk by Richard Feldman on Elm](https://www.youtube.com/watch?v=IcgmSRJHu_8)
 
 
 ## New Types (Ideas)
@@ -71,3 +71,14 @@ Example:
 In OOP, you do not need to understand polymorphism and Liscovs Principle (the 'L' in SOLID) to start understanding OOP and its principles.
 
 https://github.com/hemanth/functional-programming-jargon
+
+
+
+## FP is fundamentally different
+
+https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages
+
+Going from Java to C# is just trivial. Going from Java to Python requires a slight shift in mentality, but it's basically the same thing. Even going from C to Java isn't that bad--in terms of concepts, Java adds on top of the same foundation as C. You have variables, control structures, statements and expressions. It's a gradual progression from the very first language you learned to the new imperative language du jour.
+
+Functional programming is nothing like that. It really pulls the rug out from underneath your feet. The most fundamental ideas are completely replaced. No more statements. No more loops. No more variables. Hell, no more execution--instead of running a functional program, you evaluate it.
+
