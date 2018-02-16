@@ -1,3 +1,7 @@
+DEPRICATED: moved here https://github.com/gregberns/LearningFunctionalProgramming/tree/master/OtherWritings
+
+
+
 # A Pragmatic Approach to Functional Programming
 
 This repository is a series of talks on a Pragmatic Approach to Functional Programming in C#
